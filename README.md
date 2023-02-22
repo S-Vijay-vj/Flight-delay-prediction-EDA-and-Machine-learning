@@ -1,0 +1,2 @@
+# Flight-delay-prediction-EDA-and-Machine-learning
+Predicting flight delays is crucial for airport authorities, airlines, and aviation authorities. Joint task forces have been formed to tackle this problem. An organization that provides real-time assistance with flight delays would benefit from advanced notice about flights that are likely to be delayed. This project aims to use EDA and machine learning techniques to build a model that predicts flight delays with high accuracy.
